@@ -3,7 +3,7 @@
 This repository contains a data analysis project that analyzes COVID-19 data to gain insights into the pandemic trends and patterns. It includes data preprocessing, exploratory data analysis, and visualizations.
 
 ## Dataset
-The COVID-19 dataset used for this analysis can be found in the `data/` folder. The data is sourced from [XYZ Dataset Source].
+The COVID-19 dataset used for this analysis can be found in the `data/` folder. The data is sourced from OurWorldInData.com.
 
 ## How to Run
 1. Clone this repository to your local machine.
